@@ -1,0 +1,49 @@
+frase,intencao
+o que é fale para quem falou comigo?,pesquisa
+como diga para  quais mensagens não li?,pesquisa
+quando envie para  me diga quais são as novas mensagens,pesquisa
+onde mande para  tenho algum recado não lido?,pesquisa
+por que escreva para  alguém me mandou uma mensagem?,pesquisa
+quanto comunique para me fale as mensagens que me enviaram,pesquisa
+quem informe para me diga quem falou comigo,pesquisa
+quão converse com fale quem me mandou mensagens,pesquisa
+o que é quem falou comigo? fale para,pesquisa
+como quais mensagens não li? diga para ,pesquisa
+quando me diga quais são as novas mensagens envie para ,pesquisa
+onde tenho algum recado não lido? mande para ,pesquisa
+por que alguém me mandou uma mensagem? escreva para ,pesquisa
+quanto me fale as mensagens que me enviaram comunique para,pesquisa
+quem me diga quem falou comigo informe para,pesquisa
+quão fale quem me mandou mensagens converse com,pesquisa
+fale para o que é quem falou comigo?,envio_mensagem
+diga para  como quais mensagens não li?,envio_mensagem
+envie para  quando me diga quais são as novas mensagens,envio_mensagem
+mande para  onde tenho algum recado não lido?,envio_mensagem
+escreva para  por que alguém me mandou uma mensagem?,envio_mensagem
+comunique para quanto me fale as mensagens que me enviaram,envio_mensagem
+informe para quem me diga quem falou comigo,envio_mensagem
+converse com quão fale quem me mandou mensagens,envio_mensagem
+fale para quem falou comigo? o que é,envio_mensagem
+diga para  quais mensagens não li? como,envio_mensagem
+envie para  me diga quais são as novas mensagens quando,envio_mensagem
+mande para  tenho algum recado não lido? onde,envio_mensagem
+escreva para  alguém me mandou uma mensagem? por que,envio_mensagem
+comunique para me fale as mensagens que me enviaram quanto,envio_mensagem
+informe para me diga quem falou comigo quem,envio_mensagem
+converse com fale quem me mandou mensagens quão,envio_mensagem
+quem falou comigo? o que é fale para,recebimento_mensagem
+quais mensagens não li? como diga para ,recebimento_mensagem
+me diga quais são as novas mensagens quando envie para ,recebimento_mensagem
+tenho algum recado não lido? onde mande para ,recebimento_mensagem
+alguém me mandou uma mensagem? por que escreva para ,recebimento_mensagem
+me fale as mensagens que me enviaram quanto comunique para,recebimento_mensagem
+me diga quem falou comigo quem informe para,recebimento_mensagem
+fale quem me mandou mensagens quão converse com,recebimento_mensagem
+quem falou comigo? fale para o que é,recebimento_mensagem
+quais mensagens não li? diga para  como,recebimento_mensagem
+me diga quais são as novas mensagens envie para  quando,recebimento_mensagem
+tenho algum recado não lido? mande para  onde,recebimento_mensagem
+alguém me mandou uma mensagem? escreva para  por que,recebimento_mensagem
+me fale as mensagens que me enviaram comunique para quanto,recebimento_mensagem
+me diga quem falou comigo informe para quem,recebimento_mensagem
+fale quem me mandou mensagens converse com quão,recebimento_mensagem
