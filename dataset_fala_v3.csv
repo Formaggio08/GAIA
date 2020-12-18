@@ -1,0 +1,25 @@
+frase,intencao
+o que é inteligência artificial?,pesquisa
+como fazer bolo?,pesquisa
+quando é o Natal?,pesquisa
+onde fica o Everest?,pesquisa
+por que a Terra é redonda?,pesquisa
+quanto custa uma McLaren,pesquisa
+quem foi Michael Jackson?,pesquisa
+quão grande é a Lua,pesquisa
+fale para Katia que não poderei ir hoje,envio_mensagem
+diga para o Douglas que estou a caminho,envio_mensagem
+envie para Marina que vamos almoçar fora,envio_mensagem
+mande para Flávia como faço arroz?,envio_mensagem
+escreva para Nathan acho que ganha hoje,envio_mensagem
+comunique para Paloma que chegarei atrasado,envio_mensagem
+informe Celso que vou entrar em quinze minutos,envio_mensagem
+converse com Larissa e fale que não conheço a pessoa,envio_mensagem
+quem falou comigo?,recebimento_mensagem
+quais mensagens não li?,recebimento_mensagem
+me diga quais são as novas mensagens,recebimento_mensagem
+tenho algum recado não lido?,recebimento_mensagem
+alguém me mandou uma mensagem?,recebimento_mensagem
+me fale as mensagens que me enviaram,recebimento_mensagem
+me diga quem falou comigo,recebimento_mensagem
+fale quem me mandou mensagens,recebimento_mensagem
