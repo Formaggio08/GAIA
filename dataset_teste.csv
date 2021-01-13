@@ -1,12 +1,68 @@
 frase,intencao
-o que é amor?,pesquisa
-como excluir uma conta do instagram?,pesquisa
-quando volta as aulas?,pesquisa
-onde fazer teste de Covid-19?,pesquisa
-por que precisamos de oxigênio?,pesquisa
-quanto é o salário mínimo?,pesquisa
-quem joga hoje?,pesquisa
-quão pequeno é um átomo?,pesquisa
+o que é amor?,pesquisa_que
+o que é o vento,pesquisa_que
+o que é um planeta,pesquisa_que
+o que define um animal,pesquisa_que
+o que representa a bandeira de um país,pesquisa_que
+o que está passando na TV,pesquisa_que
+o que faz um epidemologista,pesquisa_que
+o que fazer para ganhar dinheiro,pesquisa_que
+como excluir uma conta do instagram?,pesquisa_como
+como fazer um pão de alho,pesquisa_como
+como fazer exercícios em casa,pesquisa_como
+como marcar no futebol,pesquisa_como
+como saber quem mexeu no meu celular,pesquisa_como
+como saber a programação do evento,pesquisa_como
+como chegar na avenida paulista,pesquisa_como
+como correr mais rápido,pesquisa_como
+quando voltam as aulas?,pesquisa_quando
+quando será a final da Libertadores,pesquisa_quando
+quando construiremos uma base na Lua,pesquisa_quando
+quando iremos pra Marte,pesquisa_quando
+quando lança o filme,pesquisa_quando
+quando sairá o próximo episódio,pesquisa_quando
+quando saberemos o resultado da vacina,pesquisa_quando
+quando posso sair de casa,pesquisa_quando
+onde fazer teste de Covid-19?,pesquisa_onde
+onde é a torre Eiffel,pesquisa_onde
+onde é o posto de saúde mais próximo,pesquisa_onde
+onde está o meu celular,pesquisa_onde
+onde se encontra um cardiologista,pesquisa_onde
+onde fica a Itália,pesquisa_onde
+onde é o correio,pesquisa_onde
+onde está localizado o supermercado,pesquisa_onde
+por que precisamos de oxigênio?,pesquisa_porque
+por que o bolo cresce,pesquisa_porque
+por que o espaço é frio,pesquisa_porque
+por que a Lua muda de fase,pesquisa_porque
+por que tenho que dirigir,pesquisa_porque
+por que não estou produtivo,pesquisa_porque
+por que meu cachorro uiva,pesquisa_porque
+por que não tenho criatividade,pesquisa_porque
+quanto é o salário mínimo?,pesquisa_quanto
+quanto é um videogame,pesquisa_quanto
+quantas letras tem no alfabeto,pesquisa_quanto
+quanto tempo tenho que estudar,pesquisa_quanto
+quantos integrantes tem a banda,pesquisa_quanto
+quantas palavras tem no vocabulário Russo,pesquisa_quanto
+quanto tempo leva para ir ao cinema,pesquisa_quanto
+quanto sai um quilo de frango no México,pesquisa_quanto
+quem joga hoje?,pesquisa_quem
+quem é o autor do livro,pesquisa_quem
+quem foi que assinou a Lei Áurea,pesquisa_quem
+quem foi o imperador do Brasil,pesquisa_quem
+quem é o presidente dos EUA,pesquisa_quem
+quem sabe o que é patologia,pesquisa_quem
+quem consegue correr mais rápido,pesquisa_quem
+quem não é o atual técnico do time,pesquisa_quem
+quão pequeno é um átomo?,pesquisa_quao
+quão caro é o dólar,pesquisa_quao
+quão grande é o Oceano Pacífico,pesquisa_quao
+quão longe é a estrela mais perto da Terra,pesquisa_quao
+quão difícil é escalar uma montanha,pesquisa_quao
+quão chato é perguntar algo assim,pesquisa_quao
+quão legal é viajar para este lugar,pesquisa_quao
+quão alto o avião consegue chegar,pesquisa_quao
 fale para o João que ele esqueceu sua carteira,envio_mensagem
 diga para o Emerson estou chegando,envio_mensagem
 envie para Rita já está bem?,envio_mensagem
